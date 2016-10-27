@@ -3,4 +3,11 @@
 핸드폰 요금 계산기 - By. HanSJin
 
 Java Swing으로 Winform짠건데 별 쓸모 없음
-공부&외주한건데 가질사람 가지셈
+
+# - 
+
+대략 자바 코드 16만 라인의 거대한 쓰레기임
+
+실행시키면 재밋긴함ㅎㅎ
+
+http://pickmeapp.co.kr/client/data/uploads/pickme_image_20161026_110500_137278662i.png
