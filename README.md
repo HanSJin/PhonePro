@@ -10,3 +10,7 @@ Java Swing으로 Winform짠건데 별 쓸모 없음
 
 실행시키면 재밋긴함ㅎㅎ
 
+![alt tag](http://pickmeapp.co.kr/hansjin/git_recourse/s1.jpg)
+![alt tag](http://pickmeapp.co.kr/hansjin/git_recourse/s2.jpg)
+![alt tag](http://pickmeapp.co.kr/hansjin/git_recourse/s3.jpg)
+![alt tag](http://pickmeapp.co.kr/hansjin/git_recourse/s4.jpg)
