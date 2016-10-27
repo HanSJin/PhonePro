@@ -10,4 +10,3 @@ Java Swing으로 Winform짠건데 별 쓸모 없음
 
 실행시키면 재밋긴함ㅎㅎ
 
-http://pickmeapp.co.kr/client/data/uploads/pickme_image_20161026_110500_137278662i.png
